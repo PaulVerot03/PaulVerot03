@@ -9,7 +9,7 @@
 </div>
 <br>
 <div id="badges" align="center">
-  <a href="portoflio.paulverot.fr">
+  <a href="https://portfolio.paulverot.fr">
     <img src="https://cyber-rot.neocities.org/gfx/buttons/big/worldwidewebgradient.gif" alt="paul" /> 
   </a>
 
