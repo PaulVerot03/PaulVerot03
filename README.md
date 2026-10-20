@@ -29,11 +29,11 @@ I love messing with computers and electronics
 Some of the projects I participated in : 
 - IGEM 2025 - Engineered Cyanobacteria for Improved Carbon Fixation : website and scripting <a href="https://2025.igem.wiki/evry-paris-saclay/"><p>2025 Wikipage</p></a>
 
-- ReadWriteGrow Hackathon 2025 - RNA Folding Prediction for Nanocages Design : folding scripting <a href="https://github.com/PaulVerot03/hackaton-code"><p>2025 Wikipage</p></a>
+- ReadWriteGrow Hackathon 2025 - RNA Folding Prediction for Nanocages Design : folding scripting <a href="https://github.com/PaulVerot03/hackaton-code"><p>hackaton code</p></a>
 
-- IGEM 2026 - Orthogonal Ribisome Design Toolbox : website, scripting, video editing and sound capture <a href="https://2026.igem.wiki/evry-paris-saclay/"><p>2025 Wikipage</p></a>
+- IGEM 2026 - Orthogonal Ribisome Design Toolbox : website, scripting, video editing and sound capture <a href="https://2026.igem.wiki/evry-paris-saclay/"><p>2026 Wikipage</p></a>
 
-- D4GEN Hackathon 2026 - RNA RBS Analysis Toolbox : AWS notebook coding, streamlit, python scripting <a href="https://github.com/crakshay1/DalguardYES"><p>2025 Wikipage</p></a>
+- D4GEN Hackathon 2026 - RNA RBS Analysis Toolbox : AWS notebook coding, streamlit, python scripting <a href="https://github.com/crakshay1/DalguardYES"><p>Project code</p></a>
 
 Some of my pasions : 
 - carpentry 
